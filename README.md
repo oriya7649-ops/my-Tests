@@ -1,4 +1,4 @@
-# QA Automation Classwork 1
+# QA Automation Classwork t2
 
 This repository is dedicated to classwork and exercises completed during a QA Automation course.
 
