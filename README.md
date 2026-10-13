@@ -2,6 +2,7 @@
 
 This repository is dedicated to classwork and exercises completed during a QA Automation course.
 
+
 ## Overview
 
 The purpose of this repository is to store practical assignments, scripts, test cases, and notes related to software testing and automation. It is intended to track learning progress in areas such as:
